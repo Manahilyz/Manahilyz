@@ -17,29 +17,20 @@
 <!-- ============ ANIMATED DIVIDER ============ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============ ABOUT ME ============ -->
+<!-- ============ ABOUT ME (TEXT ONLY) ============ -->
 ## 🌸 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>
-        <strong>👋 Hey there!</strong> I'm <strong>Manahil Zahra</strong>, a passionate <strong>Software Engineering student</strong> on an exciting journey into the world of technology. I love turning ideas into reality through code!
-      </p>
-      
-      <ul>
-        <li>🎓 <strong>Studying:</strong> Software Engineering</li>
-        <li>💻 <strong>Learning:</strong> Web Development · JavaScript · React</li>
-        <li>🎨 <strong>Interested in:</strong> UI/UX Design · Creative Coding</li>
-        <li>🌱 <strong>Currently exploring:</strong> Backend Development · Databases</li>
-        <li>⚡ <strong>Fun fact:</strong> I believe in the power of consistency!</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="100%" style="border-radius: 15px;"/>
-    </td>
-  </tr>
-</table>
+Hey there! I'm Manahil Zahra, a passionate Software Engineering student on an exciting journey into the world of technology. I love turning ideas into reality through code!
+
+- ✨ Studying: Software Engineering
+- 🟢 Learning: Web Development · JavaScript · React
+- 🔴 Interested in: UI/UX Design · Creative Coding
+- ❌ Currently exploring: Backend Development · Databases
+- 👥 Fun fact: I believe in the power of consistency!
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300" style="border-radius: 15px;"/>
+
+---
 
 <!-- ============ DIVIDER ============ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -47,24 +38,18 @@
 <!-- ============ MY JOURNEY ============ -->
 ## 🌟 My Learning Journey
 
-<div align="center">
-  
-| 🚀 <strong>Currently Learning</strong> | 🔍 <strong>Exploring Next</strong> | 🛠️ <strong>Tools I Use</strong> |
-|----------------------------------------|-------------------------------------|----------------------------------|
+| 🚀 Currently Learning | 🔍 Exploring Next | 🛠️ Tools I Use |
+|----------------------|------------------|----------------|
 | HTML & CSS | React.js | VS Code |
 | JavaScript | Node.js | Git & GitHub |
 | Responsive Design | SQL Databases | Figma |
 | Tailwind CSS | Python | Chrome DevTools |
-
-</div>
 
 ---
 
 <!-- ============ SKILLS ============ -->
 ## 💻 Tech Stack
 
-<div align="center">
-  
 ### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -87,7 +72,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
 </p>
-</div>
 
 ---
 
@@ -96,67 +80,39 @@
 
 > *"Building projects is how I learn. Here are some of my creations:"*
 
-<br>
+### 📱 Project 1: Personal Portfolio
+My first portfolio website built with HTML & CSS.
 
-<!-- PROJECT 1 -->
-<details>
-<summary><strong>📱 Project 1: Personal Portfolio</strong></summary>
-<br>
-<p>
-  My first portfolio website built with HTML & CSS.
-  <br><br>
-  <strong>Tech:</strong> HTML · CSS
-  <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
-</p>
-</details>
+**Tech:** HTML · CSS
 
-<br>
+<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
 
-<!-- PROJECT 2 -->
-<details>
-<summary><strong>🧮 Project 2: Calculator</strong></summary>
-<br>
-<p>
-  A simple calculator built with JavaScript.
-  <br><br>
-  <strong>Tech:</strong> HTML · CSS · JavaScript
-  <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-6C63FF?style=for-the-badge" /></a>
-</p>
-</details>
+---
 
-<br>
+### 🧮 Project 2: Calculator
+A simple calculator built with JavaScript.
 
-<!-- PROJECT 3 -->
-<details>
-<summary><strong>✅ Project 3: To-Do List</strong></summary>
-<br>
-<p>
-  A task management app using JavaScript.
-  <br><br>
-  <strong>Tech:</strong> HTML · CSS · JavaScript
-  <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
-</p>
-</details>
+**Tech:** HTML · CSS · JavaScript
 
-<br>
+<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-6C63FF?style=for-the-badge" /></a>
 
-<!-- PROJECT 4 -->
-<details>
-<summary><strong>🌤️ Project 4: Weather App</strong></summary>
-<br>
-<p>
-  A weather app that uses an API to show real-time weather.
-  <br><br>
-  <strong>Tech:</strong> HTML · CSS · JavaScript · API
-  <br><br>
-  <a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-6C63FF?style=for-the-badge" /></a>
-</p>
-</details>
+---
 
-<br>
+### ✅ Project 3: To-Do List
+A task management app using JavaScript.
+
+**Tech:** HTML · CSS · JavaScript
+
+<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
+
+---
+
+### 🌤️ Project 4: Weather App
+A weather app that uses an API to show real-time weather.
+
+**Tech:** HTML · CSS · JavaScript · API
+
+<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-6C63FF?style=for-the-badge" /></a>
 
 > **📌 Note:** Live links coming soon! I'm still working on deploying these projects. 🌱
 
@@ -192,28 +148,20 @@
 <!-- ============ GOALS ============ -->
 ## 🎯 My 2026 Goals
 
-<div align="center">
-  
-| ✅ <strong>Goal</strong> | 📅 <strong>Status</strong> |
-|-------------------------|---------------------------|
+| ✅ Goal | 📅 Status |
+|---------|-----------|
 | Learn JavaScript deeply | 🔄 In Progress |
 | Build 5+ projects | 🟡 3/5 Done |
 | Start learning React | ⏳ Coming Soon |
 | Create a portfolio | 🔄 Working on it |
 | Contribute to open source | ⏳ Future Goal |
 
-</div>
-
 ---
 
 <!-- ============ QUOTE ============ -->
 ## 💭 My Favorite Quote
 
-<div align="center">
-  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-
-</div>
 
 ---
 
@@ -227,12 +175,6 @@
   <a href="https://github.com/ManahilZahra">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <!-- 
-  👇 Add more when you have them!
-  <a href="your-linkedin-url">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
 </p>
 
 <p align="center">
