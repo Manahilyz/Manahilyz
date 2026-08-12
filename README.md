@@ -1,6 +1,6 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manahil+Zahra;Software+Engineering+Student;Building+My+Dreams+%F0%9F%9A%80;Learning+Every+Day+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Manahil+Zahra;Software+Engineering+Student;Building+My+Dreams+🚀;Learning+Every+Day+✨" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 <!-- ============ ANIMATED DIVIDER ============ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ============ ABOUT ME (TEXT ONLY) ============ -->
+<!-- ============ ABOUT ME ============ -->
 ## 🌸 About Me
 
 Hey there! I'm Manahil Zahra, a passionate Software Engineering student on an exciting journey into the world of technology. I love turning ideas into reality through code!
@@ -44,6 +44,7 @@ Hey there! I'm Manahil Zahra, a passionate Software Engineering student on an ex
 | JavaScript | Node.js | Git & GitHub |
 | Responsive Design | SQL Databases | Figma |
 | Tailwind CSS | Python | Chrome DevTools |
+| Bootstrap | MongoDB | Postman |
 
 ---
 
@@ -56,6 +57,7 @@ Hey there! I'm Manahil Zahra, a passionate Software Engineering student on an ex
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
 ### 📚 Learning
@@ -83,7 +85,7 @@ Hey there! I'm Manahil Zahra, a passionate Software Engineering student on an ex
 ### 📱 Project 1: Personal Portfolio
 My first portfolio website built with HTML & CSS.
 
-**Tech:** HTML · CSS
+**Tech:** HTML · CSS · Bootstrap
 
 <a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
 
@@ -123,7 +125,7 @@ A weather app that uses an API to show real-time weather.
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManahilZahra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManahilZahra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManahilZahra&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
@@ -155,6 +157,7 @@ A weather app that uses an API to show real-time weather.
 | Start learning React | ⏳ Coming Soon |
 | Create a portfolio | 🔄 Working on it |
 | Contribute to open source | ⏳ Future Goal |
+| Learn Bootstrap | 🔄 In Progress |
 
 ---
 
@@ -169,7 +172,7 @@ A weather app that uses an API to show real-time weather.
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:meenoshah143@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ManahilZahra">
