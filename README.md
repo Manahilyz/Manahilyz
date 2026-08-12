@@ -125,13 +125,13 @@ A weather app that uses an API to show real-time weather.
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManahilZahra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManahilZahra&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManahilZahra&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManahilZahra&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br><br>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilZahra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilZahra&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 
 </div>
 
