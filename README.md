@@ -78,45 +78,12 @@ Hey there! I'm Manahil Zahra, a passionate Software Engineering student on an ex
 ---
 
 <!-- ============ PROJECTS ============ -->
-## 🚀 My Projects
-
-> *"Building projects is how I learn. Here are some of my creations:"*
-
-### 📱 Project 1: Personal Portfolio
-My first portfolio website built with HTML & CSS.
-
-**Tech:** HTML · CSS · Bootstrap
-
-<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
 
 ---
 
-### 🧮 Project 2: Calculator
-A simple calculator built with JavaScript.
 
-**Tech:** HTML · CSS · JavaScript
 
-<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-6C63FF?style=for-the-badge" /></a>
 
----
-
-### ✅ Project 3: To-Do List
-A task management app using JavaScript.
-
-**Tech:** HTML · CSS · JavaScript
-
-<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-FF6B9D?style=for-the-badge" /></a>
-
----
-
-### 🌤️ Project 4: Weather App
-A weather app that uses an API to show real-time weather.
-
-**Tech:** HTML · CSS · JavaScript · API
-
-<a href="#"><img src="https://img.shields.io/badge/🔗-View_Project-6C63FF?style=for-the-badge" /></a>
-
-> **📌 Note:** Live links coming soon! I'm still working on deploying these projects. 🌱
 
 ---
 
